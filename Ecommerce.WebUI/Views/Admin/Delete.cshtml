@@ -1,0 +1,33 @@
+﻿@model Ecommerce.Domain.Entities.Product
+
+@{
+    ViewBag.Title = "Admin: Delete " + @Model.Name;
+    Layout = "~/Views/Shared/_Adminlayout.cshtml";
+}
+
+<h2>Are you sure you want to delete this product?</h2>
+   
+<div class="panel-footer">
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <p class="text-center">
+            <input type="submit" value="Delete" class="btn btn-primary" />
+            @Html.ActionLink("Cancel and return to List", "Index", null, new { @class = "btn btn-default" })
+        </p>
+    }
+</div>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <div>
+
+    </div>
+</body>
+</html>

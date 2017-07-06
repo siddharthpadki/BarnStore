@@ -1,0 +1,35 @@
+﻿@model Ecommerce.Domain.Entities.Product
+
+<div class="well">
+
+    @if(Model.ImageData != null)
+    {
+        <div class="pull-left" style="margin-right: 10px">
+            <img class="img-thumbnail" width="85" height="85" src="@Url.Action("GetImage", "Product", new {Model.ProductID})" />
+        </div>
+    }
+
+    <h3>
+        <strong>@Model.Name</strong>      
+        <span class="pull-right label label-primary">@Model.Price.ToString("c")</span> 
+    </h3>
+       
+    @using (Html.BeginForm("AddToCart", "Cart", FormMethod.Post, new { onsubmit = "return (function(e){var size = e.target.childNodes[1].childNodes[5].value; if (size == '') {alert('Please select a size'); return false;} else { return true; } })(event);" }))
+    {
+        <div class="pull-right">
+            @Html.HiddenFor(x => x.ProductID)
+            @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+            @Html.DropDownList("size", new List<SelectListItem>
+            {
+                new SelectListItem{Text="Small",Value="Small"},
+                new SelectListItem{Text="Medium",Value="Medium"},
+                new SelectListItem{Text="Large",Value="Large"},
+                new SelectListItem{Text="Extra Large",Value="Extra Large"}
+            }, "Please select your size")  
+            <br />
+            <input type="submit" class="pull-right btn btn-success" value="Add to cart" />
+        </div>
+    }
+
+    <span class="lead">@Model.Description</span>
+</div>
