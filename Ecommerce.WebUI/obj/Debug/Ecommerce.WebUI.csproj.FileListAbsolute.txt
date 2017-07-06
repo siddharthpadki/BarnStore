@@ -1,0 +1,200 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\obj\Debug\Ecommerce.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\ApplicationInsights.config
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ecommerce.WebUI.dll.config
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ecommerce.WebUI.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ecommerce.WebUI.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ecommerce.Domain.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Moq.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ninject.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Helpers.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Mvc.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Razor.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Webpages.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\WebActivator.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ecommerce.Domain.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Moq.xml
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ninject.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ninject.xml
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Razor.xml
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Webpages.xml
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Helpers.xml
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Mvc.xml
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\obj\Debug\Ecommerce.WebUI.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\obj\Debug\Ecommerce.WebUI.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\EntityFramework.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\EntityFramework.xml
+C:\Users\User\documents\visual studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\ApplicationInsights.config
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ecommerce.WebUI.dll.config
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ecommerce.WebUI.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ecommerce.WebUI.pdb
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ecommerce.Domain.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\EntityFramework.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Moq.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ninject.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Helpers.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Mvc.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Razor.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Webpages.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\WebActivator.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ecommerce.Domain.pdb
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\EntityFramework.xml
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Moq.xml
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ninject.pdb
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ninject.xml
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Razor.xml
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Webpages.xml
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Helpers.xml
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\bin\System.Web.Mvc.xml
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\obj\Debug\Ecommerce.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\obj\Debug\Ecommerce.WebUI.dll
+C:\Users\siddharth\Documents\Visual Studio 2015\Projects\Ecommerce1\Ecommerce.WebUI\obj\Debug\Ecommerce.WebUI.pdb
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\ApplicationInsights.config
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ecommerce.WebUI.dll.config
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ecommerce.WebUI.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ecommerce.WebUI.pdb
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ecommerce.Domain.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\EntityFramework.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\EntityFramework.SqlServer.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.AI.Web.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.AI.WindowsServer.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.ApplicationInsights.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Moq.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ninject.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ninject.Web.Common.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ninject.Web.Mvc.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Helpers.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Mvc.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Razor.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Webpages.Deployment.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Webpages.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Webpages.Razor.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\WebActivator.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ecommerce.Domain.pdb
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\EntityFramework.xml
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\EntityFramework.SqlServer.xml
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.AI.Web.xml
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.AI.WindowsServer.xml
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.ApplicationInsights.xml
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Moq.xml
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ninject.pdb
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ninject.xml
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ninject.Web.Common.pdb
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ninject.Web.Common.xml
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ninject.Web.Mvc.pdb
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ninject.Web.Mvc.xml
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Razor.xml
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Webpages.xml
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Webpages.Deployment.xml
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Webpages.Razor.xml
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Helpers.xml
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Mvc.xml
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\obj\Debug\Ecommerce.WebUI.csprojResolveAssemblyReference.cache
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\obj\Debug\Ecommerce.WebUI.dll
+E:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\obj\Debug\Ecommerce.WebUI.pdb
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\ApplicationInsights.config
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ecommerce.WebUI.dll.config
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ecommerce.WebUI.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ecommerce.WebUI.pdb
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ecommerce.Domain.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\EntityFramework.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\EntityFramework.SqlServer.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.AI.Web.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.AI.WindowsServer.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.ApplicationInsights.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.Web.Infrastructure.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Moq.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ninject.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ninject.Web.Common.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ninject.Web.Mvc.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Helpers.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Mvc.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Razor.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Webpages.Deployment.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Webpages.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Webpages.Razor.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\WebActivator.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ecommerce.Domain.pdb
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\EntityFramework.xml
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\EntityFramework.SqlServer.xml
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.AI.Web.xml
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.AI.WindowsServer.xml
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Microsoft.ApplicationInsights.xml
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Moq.xml
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ninject.pdb
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ninject.xml
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ninject.Web.Common.pdb
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ninject.Web.Common.xml
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ninject.Web.Mvc.pdb
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\Ninject.Web.Mvc.xml
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Razor.xml
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Webpages.xml
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Webpages.Deployment.xml
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Webpages.Razor.xml
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Helpers.xml
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\bin\System.Web.Mvc.xml
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\obj\Debug\Ecommerce.WebUI.csprojResolveAssemblyReference.cache
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\obj\Debug\Ecommerce.WebUI.dll
+F:\Ecommerce1 - Copy (2)\Ecommerce.WebUI\obj\Debug\Ecommerce.WebUI.pdb
