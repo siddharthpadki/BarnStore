@@ -1,0 +1,69 @@
+﻿@model Ecommerce.Domain.Entities.Product
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4></h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <br />
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <br />
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            &pound;@Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <br />
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Category)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Category)
+        </dd>
+
+        <br />
+
+        <dt>
+            Image
+        </dt>
+
+        <dd>
+            <img class="img-thumbnail" width="130" height="130" src="@Url.Action("GetImage", "Product", new { Model.ProductID })" />
+        </dd>
+
+    </dl>
+</div>
+
+<p>
+    @Html.ActionLink("Back to Home Page", "List", "Product")
+</p>
+
+
