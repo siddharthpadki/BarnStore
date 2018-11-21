@@ -24,7 +24,11 @@
                 <tr>
                     <td class="text-center">@line.Quantity</td>
                     <td class="text-left">@line.Product.Name</td>
-                    <td class="text-left">@line.Size</td>               
+                    <td class="text-left">@line.Size 
+                    @if (line.WaistSize != null) {
+                        <span>(waist: @line.WaistSize)</span>
+                    }
+                    </td>               
                     <td class="text-right">@line.Product.Price.ToString("c")</td>
                     <td class="text-right">@((line.Quantity * line.Product.Price).ToString("c"))</td>
 
