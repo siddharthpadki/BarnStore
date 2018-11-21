@@ -25,13 +25,18 @@ namespace Ecommerce.WebUI.Controllers
             return View(new CartIndexViewModel { Cart = cart, ReturnUrl = returnUrl });
         }
 
-        public RedirectToRouteResult AddToCart(Cart cart, int productID, string returnUrl, string size)
+        public RedirectToRouteResult AddToCart(Cart cart, int productID, string returnUrl, string size, string waistSize)
         {
             Product product = repository.Products.FirstOrDefault(p => p.ProductID == productID);
-
-            if(product != null)
+            int? waistSizeInt = null;
+            if (!string.IsNullOrEmpty(waistSize))
             {
-                cart.AddItem(product, 1, size);
+                waistSizeInt = int.Parse(waistSize);
+            }
+
+            if (product != null)
+            {
+                cart.AddItem(product, 1, size, waistSizeInt);
             }
             return RedirectToAction("Index", new { returnUrl });
         }
