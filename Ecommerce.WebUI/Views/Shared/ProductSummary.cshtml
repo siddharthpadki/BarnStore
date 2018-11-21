@@ -10,11 +10,29 @@
     }
 
     <h3>
-        <strong>@Model.Name</strong>      
+        <strong>@Html.ActionLink(Model.Name, "Details", new {id = Model.ProductID })</strong>
         <span class="pull-right label label-primary">@Model.Price.ToString("c")</span> 
     </h3>
-       
-    @using (Html.BeginForm("AddToCart", "Cart", FormMethod.Post, new { onsubmit = "return (function(e){var size = e.target.childNodes[1].childNodes[5].value; if (size == '') {alert('Please select a size'); return false;} else { return true; } })(event);" }))
+    
+    @{
+        var sizeSelectId = "sizeSelect_" + Model.ProductID;
+        var waistSizeSelectId = "waistSizeSelect_" + Model.ProductID;
+        var validationJs = string.Format(@"return (function(e) {{
+                var sizeSelect = document.getElementById('{0}');
+                var waistSizeSelect = document.getElementById('{1}');
+                if (sizeSelect && sizeSelect.value == '') {{
+                    alert('Please select a size.');
+                    return false;
+                }}
+                if (waistSizeSelect && waistSizeSelect.value == '') {{
+                    alert('Please select a waist size.');
+                    return false;
+                }}
+                return true;
+              }})(event);", sizeSelectId, waistSizeSelectId).Replace(System.Environment.NewLine, "");
+    }
+
+    @using (Html.BeginForm("AddToCart", "Cart", FormMethod.Post, new { onsubmit = validationJs }))
     {
         <div class="pull-right">
             @Html.HiddenFor(x => x.ProductID)
@@ -25,8 +43,24 @@
                 new SelectListItem{Text="Medium",Value="Medium"},
                 new SelectListItem{Text="Large",Value="Large"},
                 new SelectListItem{Text="Extra Large",Value="Extra Large"}
-            }, "Please select your size")  
+            }, "Please select your size", new { id = sizeSelectId })
+            @if (Model.Category == "Trousers")
+            {
+                @Html.DropDownList("waistSize", new List<SelectListItem>
+                {
+                    new SelectListItem{Text="30",Value="30"},
+                    new SelectListItem{Text="32",Value="32"},
+                    new SelectListItem{Text="34",Value="34"},
+                    new SelectListItem{Text="36",Value="36"},
+                    new SelectListItem {Text="38",Value="38" },
+                    new SelectListItem {Text="40",Value="40" },
+                    new SelectListItem {Text="42",Value="42" },
+                    new SelectListItem {Text="44",Value="44" },
+                    new SelectListItem {Text="46",Value="46" },
+                }, "Please select your waist size", new { id = waistSizeSelectId });
+            }
             <br />
+
             <input type="submit" class="pull-right btn btn-success" value="Add to cart" />
         </div>
     }
