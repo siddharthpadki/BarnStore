@@ -19,11 +19,21 @@ namespace Ecommerce.WebUI.Controllers
             this.repository = productRepository;
         }
 
-        public ViewResult Details(int id)
+        public ActionResult Category()
         {
-            var product = repository.Products.Where(p => p.ProductID == id);
-            return View(product);
+            return null;
         }
+
+        public ActionResult Details(int id)
+        {
+            var products = repository.Products.Where(p => p.ProductID == id);
+            if (products.Count() < 1)
+            {
+                throw new ArgumentException("Product id " + id + " does not exist.");
+            }
+            return View(products.First());
+        }
+
         public ViewResult List(string category, int page = 1)
         {
             ProductsListViewModel model = new ProductsListViewModel
