@@ -10,13 +10,14 @@ namespace Ecommerce.Domain.Entities
     {
         private List<CartLine> lineCollection = new List<CartLine>();
 
-        public void AddItem(Product product, int quantity)
+        public void AddItem(Product product, int quantity, String size, int? waistSize)
         {
-            CartLine line = lineCollection.Where(p => p.Product.ProductID == product.ProductID).FirstOrDefault();
+            CartLine line = lineCollection.Where(p => p.Product.ProductID == product.ProductID 
+                && p.Size == size && p.WaistSize == waistSize).FirstOrDefault();
 
             if (line == null)
             {
-                lineCollection.Add(new CartLine { Product = product, Quantity = quantity });
+                lineCollection.Add(new CartLine { Product = product, Quantity = quantity, Size = size, WaistSize = waistSize });
             }
             else
             {
@@ -49,5 +50,8 @@ namespace Ecommerce.Domain.Entities
     {
         public Product Product { get; set; }
         public int Quantity { get; set; }
+        public String Size { get; set; }
+
+        public int? WaistSize { get; set; }
     }
 }
